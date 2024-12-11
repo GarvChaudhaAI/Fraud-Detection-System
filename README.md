@@ -8,7 +8,7 @@ Implementing
 1. Logistic Regression
 2. Random Forests
 3. Neural Networks
-4. Support Vector Machines(output not shown because SVMs too long train)
+4. Support Vector Machines(output not shown because SVMs take too long to train)
 5. XGBoost
 6. LightGBM
 ### Task 3
